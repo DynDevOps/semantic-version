@@ -1,4 +1,4 @@
-name: "Git Semantic Version - fork -internal preview"
+name: "Git Semantic Version - fork - internal preview"
 description: "Determines version of a repo based on git history - preview"
 branding:
   icon: "layers"
