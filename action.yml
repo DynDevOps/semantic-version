@@ -1,5 +1,5 @@
-name: "Git Semantic Version"
-description: "Determines version of a repo based on git history"
+name: "Git Semantic Version - internal preview"
+description: "Determines version of a repo based on git history - preview"
 branding:
   icon: "layers"
   color: "blue"
@@ -7,7 +7,7 @@ inputs:
   branch:
     description: "The branch name"
     required: true
-    default: "master"
+    default: "main"
   tag_prefix:
     description: "The prefix to use to identify tags"
     required: false
