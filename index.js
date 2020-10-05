@@ -100,8 +100,8 @@ async function run() {
         `describe`,
         `--tags`,
         `--abbrev=0`,
-        `--match=${releasePattern}`,
-        `${branch}`
+        `--match=${releasePattern}`//,
+        //`${branch}`
       )).trim();
     }
     catch (err) {
